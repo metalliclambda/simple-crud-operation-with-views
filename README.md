@@ -29,6 +29,11 @@ $npm install
 
 $node app.js
 
+or
+
+$npm start
+
+
 // open the browser on port 3000
 
 http://localhost:3000/
